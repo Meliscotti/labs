@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Brief Introduction to `dplyr`
-output: rmarkdown::github_document
 ---
 
 ## Brief Introduction to `dplyr`
